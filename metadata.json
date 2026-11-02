@@ -1,0 +1,6 @@
+{
+  "name": "Persian Captions",
+  "description": "Automatic video caption and subtitle generator with full Persian (فارسی) language support, customizable styles, and export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
